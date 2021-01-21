@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194737b46e04ff84a936435d5601662f, type: 3}
+  m_Name: dc_M_m_1
+  m_EditorClassIdentifier: 
+  Version: 65537
+  TableCellMap:
+  - Name: M_m_1
+    SizeOriginal: {x: 512, y: 256}
+    TableCell:
+    - Name: arm1_F
+      Rectangle:
+        serializedVersion: 2
+        x: 452
+        y: 68
+        width: 26
+        height: 39
+      Pivot: {x: 17, y: 5.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm2_F
+      Rectangle:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 23
+        height: 44
+      Pivot: {x: 18, y: 2.9999998}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: hand_F
+      Rectangle:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 22
+        height: 42
+      Pivot: {x: 11, y: 1.9999999}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: hair1
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 63
+        height: 83
+      Pivot: {x: 37, y: 6.000001}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: hair2
+      Rectangle:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 45
+        height: 101
+      Pivot: {x: 15, y: 6.0000014}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: head
+      Rectangle:
+        serializedVersion: 2
+        x: 100
+        y: 4
+        width: 68
+        height: 69
+      Pivot: {x: 39, y: 60}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: neck
+      Rectangle:
+        serializedVersion: 2
+        x: 196
+        y: 132
+        width: 22
+        height: 25
+      Pivot: {x: 11, y: 12.5}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body1
+      Rectangle:
+        serializedVersion: 2
+        x: 356
+        y: 4
+        width: 38
+        height: 59
+      Pivot: {x: 26, y: 43}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body2
+      Rectangle:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 67
+        height: 61
+      Pivot: {x: 32, y: 7.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm1_B
+      Rectangle:
+        serializedVersion: 2
+        x: 420
+        y: 4
+        width: 34
+        height: 35
+      Pivot: {x: 26, y: 27}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm2_B
+      Rectangle:
+        serializedVersion: 2
+        x: 260
+        y: 68
+        width: 33
+        height: 40
+      Pivot: {x: 27, y: 35}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: hand_B
+      Rectangle:
+        serializedVersion: 2
+        x: 324
+        y: 68
+        width: 34
+        height: 43
+      Pivot: {x: 27, y: 39}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: leg1_F
+      Rectangle:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 27
+        height: 46
+      Pivot: {x: 14, y: 7.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: Leg2_F
+      Rectangle:
+        serializedVersion: 2
+        x: 388
+        y: 68
+        width: 42
+        height: 37
+      Pivot: {x: 4.9999995, y: 5.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: foot_F
+      Rectangle:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 15
+        height: 17
+      Pivot: {x: 5, y: 2.9999998}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: toe_F
+      Rectangle:
+        serializedVersion: 2
+        x: 260
+        y: 132
+        width: 11
+        height: 19
+      Pivot: {x: 4, y: 1.9999998}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: leg1_B
+      Rectangle:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 27
+        height: 46
+      Pivot: {x: 14, y: 7.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: Leg2_B
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 42
+        height: 37
+      Pivot: {x: 4.9999995, y: 5.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: foot_B
+      Rectangle:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 15
+        height: 17
+      Pivot: {x: 5, y: 2.9999998}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: toe_B
+      Rectangle:
+        serializedVersion: 2
+        x: 324
+        y: 132
+        width: 11
+        height: 19
+      Pivot: {x: 4, y: 9}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 

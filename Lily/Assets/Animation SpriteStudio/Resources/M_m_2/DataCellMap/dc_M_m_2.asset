@@ -1,0 +1,162 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 194737b46e04ff84a936435d5601662f, type: 3}
+  m_Name: dc_M_m_2
+  m_EditorClassIdentifier: 
+  Version: 65537
+  TableCellMap:
+  - Name: M_m_2
+    SizeOriginal: {x: 256, y: 256}
+    TableCell:
+    - Name: hair1
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 57
+        height: 80
+      Pivot: {x: 23, y: 7.9999995}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: hair2
+      Rectangle:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 58
+        height: 81
+      Pivot: {x: 47, y: 8}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: head2
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 44
+        height: 37
+      Pivot: {x: 12, y: 10}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: head1
+      Rectangle:
+        serializedVersion: 2
+        x: 132
+        y: 4
+        width: 42
+        height: 77
+      Pivot: {x: 3.9999998, y: 62}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm1_F
+      Rectangle:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 25
+        height: 28
+      Pivot: {x: 6, y: 7}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm1_B
+      Rectangle:
+        serializedVersion: 2
+        x: 196
+        y: 4
+        width: 25
+        height: 28
+      Pivot: {x: 6, y: 7}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm2_F
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 59
+        height: 17
+      Pivot: {x: 6, y: 7}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: arm2_B
+      Rectangle:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 59
+        height: 17
+      Pivot: {x: 6, y: 7}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body4
+      Rectangle:
+        serializedVersion: 2
+        x: 68
+        y: 164
+        width: 54
+        height: 16
+      Pivot: {x: 47, y: 6}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body3
+      Rectangle:
+        serializedVersion: 2
+        x: 132
+        y: 164
+        width: 53
+        height: 28
+      Pivot: {x: 43, y: 11}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body2
+      Rectangle:
+        serializedVersion: 2
+        x: 68
+        y: 100
+        width: 58
+        height: 40
+      Pivot: {x: 50, y: 19}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: body1
+      Rectangle:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 53
+        height: 34
+      Pivot: {x: 10, y: 14}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
+    - Name: neck
+      Rectangle:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 25
+        height: 26
+      Pivot: {x: 4, y: 20}
+      Mesh:
+        TableCoordinate: []
+        TableIndexVertex: 
